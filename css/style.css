@@ -138,10 +138,12 @@ body {
   color: #e7e7e7;
 }
 #quote {
+  width: 500px;
+  text-align: right;
   position: fixed;
   right: 30px;
   bottom: 30px;
-  font-size: 16px;
+  font-size: 18px;
   font-style: italic;
 }
 #quote span:last-child:before {
@@ -162,3 +164,4 @@ body {
     margin: 0px auto;
   }
 }
+
